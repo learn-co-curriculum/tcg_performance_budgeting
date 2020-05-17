@@ -1,4 +1,6 @@
 ---
-:page_id: 3490
-:course_id: 239
-:canvas_url: https://learning.flatironschool.com/courses/239/pages/tcg-performance-budgeting
+:lessons:
+- :id: 3969
+  :course_id: 272
+  :canvas_url: https://learning.flatironschool.com/courses/272/pages/tcg-performance-budgeting
+  :type: page
